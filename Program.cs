@@ -10,6 +10,10 @@ namespace aplica1
     {
         static void Main(string[] args)
         {
+            Console.Write("bienvenidos al curso de c#");
+            Console.ReadKey();
+
+
         }
     }
 }
