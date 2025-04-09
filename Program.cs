@@ -13,8 +13,7 @@ namespace aplica1
             Console.Write("bienvenidos al curso de c#");
             Console.ReadKey();
             Console.Write("bienvenidos al curso de c#");
-           
-
+            Console.Write("bienvenidos al curso de c#");
 
         }
     }
